@@ -1,0 +1,222 @@
+[
+  [
+    {
+      "tweet_id": 8,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "is the worst customer service"
+    },
+    {
+      "tweet_id": 6,
+      "role": "Agent (sprintcare)",
+      "is_customer": false,
+      "text": "Can you please send us a private message, so that I can gain further details about your account?"
+    },
+    {
+      "tweet_id": 5,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "I did."
+    },
+    {
+      "tweet_id": 4,
+      "role": "Agent (sprintcare)",
+      "is_customer": false,
+      "text": "Please send us a Private Message so that we can further assist you. Just click Message at the top of your profile."
+    },
+    {
+      "tweet_id": 3,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "I have sent several private messages and no one is responding as usual"
+    },
+    {
+      "tweet_id": 1,
+      "role": "Agent (sprintcare)",
+      "is_customer": false,
+      "text": "I understand. I would like to assist you. We would need to get you into a private secured link to further assist."
+    },
+    {
+      "tweet_id": 2,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "and how do you propose we do that"
+    }
+  ],
+  [
+    {
+      "tweet_id": 18,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "yall lie about your great connection. 5 bars LTE, still wont load something. Smh."
+    },
+    {
+      "tweet_id": 17,
+      "role": "Agent (sprintcare)",
+      "is_customer": false,
+      "text": "H there! We'd definitely like to work with you on this, how long have you been experiencing this issue? -AA"
+    },
+    {
+      "tweet_id": 16,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "Since I signed up with you....Since day 1"
+    },
+    {
+      "tweet_id": 15,
+      "role": "Agent (sprintcare)",
+      "is_customer": false,
+      "text": "We understand your concerns and we'd like for you to please send us a Direct Message, so that we can further assist you. -AA"
+    },
+    {
+      "tweet_id": 12,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "You gonna magically change your connectivity for me and my whole family ?  "
+    },
+    {
+      "tweet_id": 11,
+      "role": "Agent (sprintcare)",
+      "is_customer": false,
+      "text": "This is saddening to hear. Please shoot us a DM, so that we can look into this for you. -KC"
+    }
+  ],
+  [
+    {
+      "tweet_id": 29,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "actually that's a broken link you sent me and incorrect information https://t.co/V4yfrHR8VI"
+    },
+    {
+      "tweet_id": 28,
+      "role": "Agent (Ask_Spectrum)",
+      "is_customer": false,
+      "text": "The information pertaining to the account assumption is correct.  This does need to be done at a local outlet wit... https://t.co/P7XCmTzPQj"
+    },
+    {
+      "tweet_id": 24,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "That is INCORRECT information I have the form in front of me that is faxed over-maybe you need to maintain up to date information"
+    },
+    {
+      "tweet_id": 21,
+      "role": "Agent (Ask_Spectrum)",
+      "is_customer": false,
+      "text": "What information is incorrect? ^JK"
+    },
+    {
+      "tweet_id": 22,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "Would you like me to email you a copy of one since Spectrum is not updating your training?"
+    },
+    {
+      "tweet_id": 25,
+      "role": "Agent (Ask_Spectrum)",
+      "is_customer": false,
+      "text": "Our department is part of the corporate office.  If you're particular area has gone to this format, we were unawa... https://t.co/P7XCmTzPQj"
+    },
+    {
+      "tweet_id": 26,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "I received this from your corporate office would you like a copy?"
+    },
+    {
+      "tweet_id": 27,
+      "role": "Agent (Ask_Spectrum)",
+      "is_customer": false,
+      "text": "No thank you. ^JK"
+    }
+  ],
+  [
+    {
+      "tweet_id": 36,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "somebody from  please help meeeeee  I'm having the worst luck with your customer service"
+    },
+    {
+      "tweet_id": 34,
+      "role": "Agent (VerizonSupport)",
+      "is_customer": false,
+      "text": "Help has arrived! We are sorry to see that you are having trouble. How can we help?\n^HSB"
+    },
+    {
+      "tweet_id": 35,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "I finally got someone that helped me, thanks!"
+    },
+    {
+      "tweet_id": 37,
+      "role": "Agent (VerizonSupport)",
+      "is_customer": false,
+      "text": "Awesome! If you ever need us we are just a tweet away.\n^HSB"
+    }
+  ],
+  [
+    {
+      "tweet_id": 49,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "tried to pay a bill for 60 days. No service, rude CS, and several transfers. Look up my equipment # and give me an acct #!"
+    },
+    {
+      "tweet_id": 48,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "Are you referring to wireless or residential service?\n^JAY"
+    },
+    {
+      "tweet_id": 47,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "Nobody can find my account or number. I walked out of a store with this. I've explained that they can find my acct via my devices serial #.."
+    },
+    {
+      "tweet_id": 46,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "Hello Duke, Do you have a copy of your bill? What state are your services located in?\n^NHP"
+    },
+    {
+      "tweet_id": 42,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "MD. And this was sent to the wrong address https://t.co/dMQ1WZXJOk"
+    },
+    {
+      "tweet_id": 40,
+      "role": "Agent (VerizonSupport)",
+      "is_customer": false,
+      "text": "Please follow and DM us so that we can look into this order. \n^HSB"
+    },
+    {
+      "tweet_id": 41,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "What else can I provide? They refuse to help me because they cannot validate the account..."
+    },
+    {
+      "tweet_id": 43,
+      "role": "Agent (VerizonSupport)",
+      "is_customer": false,
+      "text": "We would not be able to verify anything without authenticating your account.\n^JAY"
+    },
+    {
+      "tweet_id": 44,
+      "role": "Customer",
+      "is_customer": true,
+      "text": "How? I have my phone number and email, that's it. How did I get equipment and service? I'm literally trying to pay and nobody can find me?"
+    },
+    {
+      "tweet_id": 45,
+      "role": "Agent (VerizonSupport)",
+      "is_customer": false,
+      "text": "We can use the order number to locate the account but will need to do so in our secure one on one chat. Please follow and DM us. \n^HSB"
+    }
+  ]
+]
