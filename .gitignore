@@ -1,0 +1,19 @@
+# PyTorch Large Model Weights & Checkpoints
+*.pt
+*.bin
+*.safetensors
+*.pth
+*.onnx
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.env
+venv/
+env/
+
+# Large Datasets / PDFs (Optional exclusions)
+AS-AMM-01-000_I1_R1_20180202.pdf
+ratings_Electronics (1).csv

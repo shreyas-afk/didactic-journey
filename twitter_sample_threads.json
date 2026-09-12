@@ -1,222 +1,3022 @@
 [
   [
     {
-      "tweet_id": 8,
-      "role": "Customer",
       "is_customer": true,
-      "text": "is the worst customer service"
+      "speaker": "Customer",
+      "author_id": "115713",
+      "text": "@User y\u2019all lie about your \u201cgreat\u201d connection. 5 bars LTE, still won\u2019t load something. Smh."
     },
     {
-      "tweet_id": 6,
-      "role": "Agent (sprintcare)",
       "is_customer": false,
-      "text": "Can you please send us a private message, so that I can gain further details about your account?"
+      "speaker": "Agent",
+      "author_id": "sprintcare",
+      "text": "@User H there! We'd definitely like to work with you on this, how long have you been experiencing this issue? -AA"
     },
     {
-      "tweet_id": 5,
-      "role": "Customer",
       "is_customer": true,
-      "text": "I did."
+      "speaker": "Customer",
+      "author_id": "115713",
+      "text": "@User Since I signed up with you....Since day 1"
     },
     {
-      "tweet_id": 4,
-      "role": "Agent (sprintcare)",
       "is_customer": false,
-      "text": "Please send us a Private Message so that we can further assist you. Just click Message at the top of your profile."
+      "speaker": "Agent",
+      "author_id": "sprintcare",
+      "text": "@User We understand your concerns and we'd like for you to please send us a Direct Message, so that we can further assist you. -AA"
     },
     {
-      "tweet_id": 3,
-      "role": "Customer",
       "is_customer": true,
-      "text": "I have sent several private messages and no one is responding as usual"
+      "speaker": "Customer",
+      "author_id": "115713",
+      "text": "@User You gonna magically change your connectivity for me and my whole family ? \ud83e\udd25 \ud83d\udcaf"
     },
     {
-      "tweet_id": 1,
-      "role": "Agent (sprintcare)",
       "is_customer": false,
-      "text": "I understand. I would like to assist you. We would need to get you into a private secured link to further assist."
-    },
-    {
-      "tweet_id": 2,
-      "role": "Customer",
-      "is_customer": true,
-      "text": "and how do you propose we do that"
+      "speaker": "Agent",
+      "author_id": "sprintcare",
+      "text": "@User This is saddening to hear. Please shoot us a DM, so that we can look into this for you. -KC"
     }
   ],
   [
     {
-      "tweet_id": 18,
-      "role": "Customer",
       "is_customer": true,
-      "text": "yall lie about your great connection. 5 bars LTE, still wont load something. Smh."
+      "speaker": "Customer",
+      "author_id": "115716",
+      "text": "actually that's a broken link you sent me and incorrect information http://url"
     },
     {
-      "tweet_id": 17,
-      "role": "Agent (sprintcare)",
       "is_customer": false,
-      "text": "H there! We'd definitely like to work with you on this, how long have you been experiencing this issue? -AA"
+      "speaker": "Agent",
+      "author_id": "Ask_Spectrum",
+      "text": "@User The information pertaining to the account assumption is correct. This does need to be done at a local outlet wit... http://url"
     },
     {
-      "tweet_id": 16,
-      "role": "Customer",
       "is_customer": true,
-      "text": "Since I signed up with you....Since day 1"
+      "speaker": "Customer",
+      "author_id": "115716",
+      "text": "@User That is INCORRECT information I have the form in front of me that is faxed over-maybe you need to maintain up to date information"
     },
     {
-      "tweet_id": 15,
-      "role": "Agent (sprintcare)",
       "is_customer": false,
-      "text": "We understand your concerns and we'd like for you to please send us a Direct Message, so that we can further assist you. -AA"
+      "speaker": "Agent",
+      "author_id": "Ask_Spectrum",
+      "text": "@User What information is incorrect? ^JK"
     },
     {
-      "tweet_id": 12,
-      "role": "Customer",
       "is_customer": true,
-      "text": "You gonna magically change your connectivity for me and my whole family ?  "
+      "speaker": "Customer",
+      "author_id": "115716",
+      "text": "@User Would you like me to email you a copy of one since Spectrum is not updating your training?"
     },
     {
-      "tweet_id": 11,
-      "role": "Agent (sprintcare)",
       "is_customer": false,
-      "text": "This is saddening to hear. Please shoot us a DM, so that we can look into this for you. -KC"
+      "speaker": "Agent",
+      "author_id": "Ask_Spectrum",
+      "text": "@User Our department is part of the corporate office. If you're particular area has gone to this format, we were unawa... http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115716",
+      "text": "@User I received this from your corporate office would you like a copy?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Ask_Spectrum",
+      "text": "@User No thank you. ^JK"
     }
   ],
   [
     {
-      "tweet_id": 29,
-      "role": "Customer",
       "is_customer": true,
-      "text": "actually that's a broken link you sent me and incorrect information https://t.co/V4yfrHR8VI"
+      "speaker": "Customer",
+      "author_id": "115719",
+      "text": "somebody from @User please help meeeeee \ud83d\ude29\ud83d\ude29\ud83d\ude29\ud83d\ude29 I'm having the worst luck with your customer service"
     },
     {
-      "tweet_id": 28,
-      "role": "Agent (Ask_Spectrum)",
       "is_customer": false,
-      "text": "The information pertaining to the account assumption is correct.  This does need to be done at a local outlet wit... https://t.co/P7XCmTzPQj"
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User Help has arrived! We are sorry to see that you are having trouble. How can we help? ^HSB"
     },
     {
-      "tweet_id": 24,
-      "role": "Customer",
       "is_customer": true,
-      "text": "That is INCORRECT information I have the form in front of me that is faxed over-maybe you need to maintain up to date information"
+      "speaker": "Customer",
+      "author_id": "115719",
+      "text": "@User I finally got someone that helped me, thanks!"
     },
     {
-      "tweet_id": 21,
-      "role": "Agent (Ask_Spectrum)",
       "is_customer": false,
-      "text": "What information is incorrect? ^JK"
-    },
-    {
-      "tweet_id": 22,
-      "role": "Customer",
-      "is_customer": true,
-      "text": "Would you like me to email you a copy of one since Spectrum is not updating your training?"
-    },
-    {
-      "tweet_id": 25,
-      "role": "Agent (Ask_Spectrum)",
-      "is_customer": false,
-      "text": "Our department is part of the corporate office.  If you're particular area has gone to this format, we were unawa... https://t.co/P7XCmTzPQj"
-    },
-    {
-      "tweet_id": 26,
-      "role": "Customer",
-      "is_customer": true,
-      "text": "I received this from your corporate office would you like a copy?"
-    },
-    {
-      "tweet_id": 27,
-      "role": "Agent (Ask_Spectrum)",
-      "is_customer": false,
-      "text": "No thank you. ^JK"
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User Awesome! If you ever need us we are just a tweet away. ^HSB"
     }
   ],
   [
     {
-      "tweet_id": 36,
-      "role": "Customer",
       "is_customer": true,
-      "text": "somebody from  please help meeeeee  I'm having the worst luck with your customer service"
+      "speaker": "Customer",
+      "author_id": "115721",
+      "text": "@User tried to pay a bill for 60 days. No service, rude CS, and several transfers. Look up my equipment # and give me an acct #!"
     },
     {
-      "tweet_id": 34,
-      "role": "Agent (VerizonSupport)",
-      "is_customer": false,
-      "text": "Help has arrived! We are sorry to see that you are having trouble. How can we help?\n^HSB"
-    },
-    {
-      "tweet_id": 35,
-      "role": "Customer",
       "is_customer": true,
-      "text": "I finally got someone that helped me, thanks!"
+      "speaker": "Customer",
+      "author_id": "115722",
+      "text": "@User Are you referring to wireless or residential service? ^JAY"
     },
     {
-      "tweet_id": 37,
-      "role": "Agent (VerizonSupport)",
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115721",
+      "text": "@User Nobody can find my account or number. I walked out of a store with this. I've explained that they can find my acct via my devices serial #.."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115722",
+      "text": "@User Hello Duke, Do you have a copy of your bill? What state are your services located in? ^NHP"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115721",
+      "text": "@User MD. And this was sent to the wrong address http://url"
+    },
+    {
       "is_customer": false,
-      "text": "Awesome! If you ever need us we are just a tweet away.\n^HSB"
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User Please follow and DM us so that we can look into this order. ^HSB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115721",
+      "text": "@User What else can I provide? They refuse to help me because they cannot validate the account..."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User We would not be able to verify anything without authenticating your account. ^JAY"
     }
   ],
   [
     {
-      "tweet_id": 49,
-      "role": "Customer",
       "is_customer": true,
-      "text": "tried to pay a bill for 60 days. No service, rude CS, and several transfers. Look up my equipment # and give me an acct #!"
+      "speaker": "Customer",
+      "author_id": "115723",
+      "text": "@User is the worst ISP I\u2019ve ever had"
     },
     {
-      "tweet_id": 48,
-      "role": "Customer",
-      "is_customer": true,
-      "text": "Are you referring to wireless or residential service?\n^JAY"
-    },
-    {
-      "tweet_id": 47,
-      "role": "Customer",
-      "is_customer": true,
-      "text": "Nobody can find my account or number. I walked out of a store with this. I've explained that they can find my acct via my devices serial #.."
-    },
-    {
-      "tweet_id": 46,
-      "role": "Customer",
-      "is_customer": true,
-      "text": "Hello Duke, Do you have a copy of your bill? What state are your services located in?\n^NHP"
-    },
-    {
-      "tweet_id": 42,
-      "role": "Customer",
-      "is_customer": true,
-      "text": "MD. And this was sent to the wrong address https://t.co/dMQ1WZXJOk"
-    },
-    {
-      "tweet_id": 40,
-      "role": "Agent (VerizonSupport)",
       "is_customer": false,
-      "text": "Please follow and DM us so that we can look into this order. \n^HSB"
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User What did we do to make you feel this way and how can we fix things between us? ^KMG"
     },
     {
-      "tweet_id": 41,
-      "role": "Customer",
       "is_customer": true,
-      "text": "What else can I provide? They refuse to help me because they cannot validate the account..."
+      "speaker": "Customer",
+      "author_id": "115723",
+      "text": "@User Cuts out every 20 minutes this is ridiculous"
     },
     {
-      "tweet_id": 43,
-      "role": "Agent (VerizonSupport)",
       "is_customer": false,
-      "text": "We would not be able to verify anything without authenticating your account.\n^JAY"
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User Are all your services cutting out? ^ACM"
     },
     {
-      "tweet_id": 44,
-      "role": "Customer",
       "is_customer": true,
-      "text": "How? I have my phone number and email, that's it. How did I get equipment and service? I'm literally trying to pay and nobody can find me?"
+      "speaker": "Customer",
+      "author_id": "115723",
+      "text": "@User Yep"
     },
     {
-      "tweet_id": 45,
-      "role": "Agent (VerizonSupport)",
       "is_customer": false,
-      "text": "We can use the order number to locate the account but will need to do so in our secure one on one chat. Please follow and DM us. \n^HSB"
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User Do you have our Fios service? When services go out, does the internet light on the router change color? ^BCW"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115723",
+      "text": "@User Just randomly boots me offline there it goes again"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User Did the lights change on the router when this happened? ^JAY"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115728",
+      "text": "@User @User I don't fit in my Veggie Burrito costume #Halloween http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User I still think you look great! -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115728",
+      "text": "@User @User Becky is very nice"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115731",
+      "text": "When you're the only one in costume #boorito @User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User It's because you're smart. -Tara"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115731",
+      "text": "@User I had excellent service tonight too! Plenty of people on the line, went very fast, everyone was kind!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User Guac on! I'm happy it was such a great experience. -Becky"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115735",
+      "text": "So frustrated with @User \ud83d\ude21 Ordered dinner on Saturday using their app. Order was wrong AND they charged my credit card twice"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115735",
+      "text": "@User Thank you @User for resolving my issue so quickly!! Y\u2019all are the best \u263a\ufe0f #fanforlife"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User I'm so glad we could help. Who did you work with? I'd like to share the praise. -Becky"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115737",
+      "text": "@User can I dress up as myself and still qualify for a BOORITO?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User Give it a try. -Tara"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115737",
+      "text": "@User Tried, didn't work. How rude :/"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User My apologies for that. Just sent you a DM to help. -Becky"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115741",
+      "text": "Considering walking to @User in my llama onesie alone happy Halloween \ud83d\ude2d"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User You won't be alone \u2013 we'll be there with you. Also, I want that llama onesie. -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115741",
+      "text": "@User Thanks Becky! Just feeling sorry for myself because my fianc\u00e9 is driving from D.C. To Mississippi tonight"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115743",
+      "text": "@User So, what's the november ps plus free game?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskPlayStation",
+      "text": "@User There is no info to share at the moment. Feel free to keep an eye on the PS Blog for news and updates: http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115744",
+      "text": "@User @User Can I get help already??"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115745",
+      "text": "@User I bought Lego Star Wars in the PlayStation store but it won't let me download it because the data is corrupted.."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskPlayStation",
+      "text": "@User Sorry for the inconvenience. Do you see the data corrupted message when you try to open the game or download it?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115745",
+      "text": "@User It was when I would go to download it. I just waited a few hours till after I bought it and it downloaded now."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskPlayStation",
+      "text": "@User Glad to know that is downloading, please feel free to contact us if you have further concerns."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115749",
+      "text": "@User y do they charge you for a meat bag at colliers woods branch. If you buy meat you r required to supply customers a free bag. Poor service."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "marksandspencer",
+      "text": "@User We're only obligated to provide bags for un-packaged meat. As ours is prepackaged, a charge will be applied"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115749",
+      "text": "@User Raw meat!!!! It\u2019s does not say unwrapped raw meat!!! Sainsbury\u2019s don\u2019t charge nor do Waitrose so y do you?!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "marksandspencer",
+      "text": "@User As our packaging is sufficient, any extra wrappings or bags does require an extra 5p charge as per legislation. Thanks"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115749",
+      "text": "@User I check with the Gov office and legal. They stated you are not right. But it\u2019s funny how the other stores don\u2019t but you do. No wonder Lidl and the rest are beating you."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115751",
+      "text": "@User hi, having trouble making purchases on Xbox one store for fifa points, can you help?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "MicrosoftHelps",
+      "text": "@User Hello, Josh! To get better assistance and support, we suggest that you post a tweet or DM our friends from @User."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115751",
+      "text": "@User @User Brilliant, thank you!"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115755",
+      "text": "@User can you still pre oder ww2 on the playstation store"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ATVIAssist",
+      "text": "@User Yes you can pre order the game on the console store. For more information please contact your console store. ^RK"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115755",
+      "text": "@User Thanks"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ATVIAssist",
+      "text": "@User No problem, let us know if you come across any other issues or questions in the future. We are happy to help. ^RK"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115756",
+      "text": "@User @User I'm trying to buy the digital deluxe edition on the ps store but I keep receiving an error message"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ATVIAssist",
+      "text": "@User Hello there. Sorry for the late response. I am just checking if you still in need assistance. Please let me know. ^RN"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115763",
+      "text": "@User I got all of my stats reset on MWR and I don't know why. please help!!!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ATVIAssist",
+      "text": "@User Can you please give me your gamertag / platform you're playing on so I can pull up your account information. ^CB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115763",
+      "text": "@User Seth_tubbs and I am on PS4"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115767",
+      "text": "Any help here @User? http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Hi Jason, please let us know if there is anything we can do to help. Thanks! ^AJ http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115767",
+      "text": "@User Pretty much explained my issue in the quoted tweet... dragging an image onto a canvas no longer center snaps it..."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Hi Jason, could you please try resetting the preferences of Photoshop &amp; let us know if it helps with the issue http://url ^SC"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115767",
+      "text": "@User the ctrl+alt+shift on load method didn't work. (2/2)"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Sorry that this isn't more simple... let us know if the steps in the video work out or if you need further help ^Madison"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115767",
+      "text": "@User Didn't work. Tried it on another computer, fresh install, same thing..."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Would you please DM the Adobe Product &amp; your purchase details that you have so that we can ask our experts to follow up. ^Raj http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115768",
+      "text": "@User whats going on with your app. its totally stuck here for 1 hour and prior to updating froze and didnt work since updating. http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Hi Jeffrey, were you able to update to Lightroom Classic CC? ^Tanuj"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115768",
+      "text": "@User nope still down."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Have you tried signing out/back in or reinstalling the CC desktop app? http://url Let us know! ^Madison"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115768",
+      "text": "@User yes ive done that multiple times. its happened on previous versions as well."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Thanks for confirming. We're looping in an expert who can help you out here. They will reply as soon as they're available. ^Madison"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115768",
+      "text": "@User ok"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115770",
+      "text": "amazon\u306efireTVstick\u304c\u898b\u308c\u306a\u3044\ud83d\ude22"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User \u3053\u3093\u306b\u3061\u306f\u3001\u30a2\u30de\u30be\u30f3\u516c\u5f0f\u3067\u3059\u3002Fire TV Stick\u304c\u898b\u308c\u306a\u3044\u3068\u3044\u3046\u306e\u306f\u3001\u3069\u306e\u3088\u3046\u306a\u72b6\u6cc1\u3067\u3057\u3087\u3046\u304b\u3002\u4e00\u822c\u7684\u306a\u30c8\u30e9\u30d6\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u3092\u8a18\u8f09\u3057\u305f\u30d8\u30eb\u30d7\u304c\u3054\u3056\u3044\u307e\u3059\u306e\u3067\u3001\u3054\u53c2\u7167\u304f\u3060\u3055\u3044\u3002http://url ET"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115770",
+      "text": "@User \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\u3002 \u4eca\u3001\u96fb\u8a71\u3067\u4e3b\u4eba\u304c\u5bfe\u5fdc\u3057\u3066\u3044\u305f\u3060\u3044\u3066\u307e\u3059\u3002"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115776",
+      "text": "So apparently the new version of @User @User has this cool feature where you can't export SVGs. Sick update guys."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Hi Keelin, Sorry for the inconvenience. I am able to export SVG in AI CC 2018. Would you mind sharing your workflow, sample file/screenshot? http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115776",
+      "text": "@User Seems pretty widespread: http://url Don't mean to be a jerk, but it's frustrating when an update breaks core functionality."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Unfortunately, we are not able to reproduce it at our end. I'll still be checking with the development team to find out more on this. ^OM http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115775",
+      "text": "@User @User It\u2019s intermittent for me. This file fails reliably: http://url The \u201cCreate subfolder\u201d option just makes an empty \u201csvg\u201d folder"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Thanks for sharing the file, we'll get back to you with updates as we investigate. ^Wren"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115769",
+      "text": "Whoa! Come along with Lightroom\u2019s own Ben Warde to get the lowdown: http://url http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115779",
+      "text": "@User I'm worried as if I update my LR6 standalone programme I could lose it due to the new online version....is this true and if so is this fair!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Hi Duncan, please update Lightroom to 6.13 from the following link: http://url . ^Tanuj"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115781",
+      "text": "@User InDesign 13.0 is exporting all PDFs with blurry links, but links are not missing in INDD file. JPG export is not blurry. Help!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Hi Jake, any screenshots you can share? What are you export settings? Is this happening on all files with links? ^Wren"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115781",
+      "text": "@User Here is an example of an export before and after. Export settings are unchanged from default. No, only some files. http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AdobeCare",
+      "text": "@User Hi Jack, is there any way you could send me a file to try exporting on my end to try and replicate? ^Wren http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115782",
+      "text": "Quand ton @User ne ressemble pas \u00e0 celui que tu as r\u00e9serv\u00e9, &amp; qu'en + d'\u00eatre sale et en sous-sol, tu te retrouves \u00e0 10 dans 1 #logement ! http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AirbnbHelp",
+      "text": "@User Hi there, we would like to help. Please DM us your account's email and reservation code so we can further assist. Thank you."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115782",
+      "text": "@User I've just sent you a message with details. Thanks for your help"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AirbnbHelp",
+      "text": "@User Thank you for that. We have responded to your DM with more information."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115785",
+      "text": "@User @User @User @User can anyone let me know when our pre orders are going to be shipped for xbox one x??"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115785",
+      "text": "@User @User @User @User Would like to know so I can make sure I have enough money for it..."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "XboxSupport",
+      "text": "@User Hi there! We'd recommend reaching out to the chat team here: http://url ^JA"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115785",
+      "text": "@User They have no info either.."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "XboxSupport",
+      "text": "@User We'd recommend keeping an eye out on your email that is associated with your account for further info. ^JA"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115785",
+      "text": "@User Lol so there's no one @User who can say when they're going to be shipped...? That's kinda weird"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115785",
+      "text": "@User @User When someone @User or @User @User @User knows when the xbox one x ships let us know. Lol shouldn't b a mystery.."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115791",
+      "text": "@User @User the 5 app on Xboxes not working error code 200, done a power cycle and still the same? Please fix app"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "XboxSupport",
+      "text": "@User Can you show us what is appearing on your screen? ^RM"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115791",
+      "text": "@User This is what's on my screen? Not sure if it's Xbox side or my5 side that's broken? Last time it was my5 as had to call head office about it! http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115795",
+      "text": "Something going on at Preston train station ? @User"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115794",
+      "text": "@User @User What have you seen?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115795",
+      "text": "@User @User Nothing, partner was on a train to Preston had to get a Taxi rest of way as was told no trains into Preston for a few hours"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115794",
+      "text": "@User @User Ah maybe @User could help on this one"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115793",
+      "text": "@User @User my colleagues @User for more info on how this is affecting services, thanks. 2/2 ^JP"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "nationalrailenq",
+      "text": "@User @User Hi. Emergency services are dealing with an incident, info here: http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115799",
+      "text": "@User CAS-19708536-CB92N2 CRM:0326600 Please check on this I haven't heard from my case officer in weeks and provided all docs."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AirAsiaSupport",
+      "text": "@User We have replied to you via DM. Check it out =) Yana"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115799",
+      "text": "@User Hi Yana I don\u2019t have any DMs from you. Did you mean email?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AirAsiaSupport",
+      "text": "@User Hi Emma, Could you please follow us so we can DM you again with the email reply sent to you =) Yana"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115799",
+      "text": "@User Hi Yana, followed!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AirAsiaSupport",
+      "text": "@User Hi Emma, We have replied to you via DM. please check again, Thank you- Mariya"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115803",
+      "text": "Fresh cream palmier @User bakery Bellshill gets my vote for #star baker \ud83d\udc68\u200d\ud83c\udf73\ud83d\ude18\ud83d\ude0b\ud83d\udc97just catching up on #gbbo17 don\u2019t know who won yet \ud83d\ude04"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Morrisons",
+      "text": "@User Please don't tell me Carol!! I can't wait to go home &amp; find out!! - Chloe"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115803",
+      "text": "@User My lips are sealed \ud83d\ude0b"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Morrisons",
+      "text": "@User Somebody else has told me!! I'm gutted :( - Chloe"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115803",
+      "text": "@User Aahhrrgh! Keep mum, I\u2019m still watching \ud83d\ude04"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Morrisons",
+      "text": "@User Don't you worry Carol, my lips are shut!! - Chloe"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115803",
+      "text": "@User Aww, Sophie deserved winner \ud83d\udc4f\ud83d\ude04"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115804",
+      "text": "@User so fed up of this very familiar sight at Houghton Regis. Get more staff &amp; stock the place properly. This is just a small example http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Morrisons",
+      "text": "@User Hi there, sorry about that. Please DM me when you visited the store and I'll look into this. Thanks - Kirsty"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115804",
+      "text": "@User That's pointless as it's every day, all the time. No matter when I go in. I speak 2the management who r as fed up as I am. They've no staff."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Morrisons",
+      "text": "@User So sorry! Could you send me what store this is in so we can get this to the right people? - Janay"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Morrisons",
+      "text": "@User I can see you've sent the store, leave it with us and we'll get this sorted :) - Janay"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115806",
+      "text": "@User I'm new to nike+ run club app, should i start with guided runs or my couch?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "NikeSupport",
+      "text": "@User While the Coach plans can be weeks in time. It's up to you to decide what fits you best. (2/2)"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115806",
+      "text": "@User Thank you nike"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "NikeSupport",
+      "text": "@User You're welcome, William. Give us a shout if you need assistance with anything else. Good luck with the NRC app."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115807",
+      "text": "@User Thought Amex values their customers. But boy you got really bad reps on the customer service."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskAmex",
+      "text": "@User Hi there, I am so sorry to her that. what exactly is the issue you are having?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115807",
+      "text": "@User Nope. They weren\u2019t ready to listen what I wanted to say and if I had any questions about anything else and hung up on me."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskAmex",
+      "text": "@User I am so sorry to hear that. Which U.S. based card do you have? Pls do not share any personal info."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115807",
+      "text": "@User Amex Platinum and Amex everyday card."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskAmex",
+      "text": "@User What exactly is the issue you are having?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115807",
+      "text": "@User I\u2019ve asked your sales rep about the payments and she wasn\u2019t ready to listen to any issues that I had."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskAmex",
+      "text": "@User Apologies for all of the issues. If you have time to chat securely with me, I would be happy to review. ^Rachel"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115816",
+      "text": "Worth the squeeze: when you\u2019ve got us helping you along the way, owning your own #smallbiz can be quite fruitful! http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115815",
+      "text": "@User that small biz tyrant a dime yo. nice @User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "UPSHelp",
+      "text": "@User I'm sorry to hear that. Let us know what happened and if you have a tracking # please send that too. ^MC http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115818",
+      "text": "@User i booked my flight using delta amex card. Checking in now &amp; was being charged for baggage"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Delta",
+      "text": "@User Glad to check. Pls, DM your confirmation number for assistance. *QB http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115818",
+      "text": "@User DM sent"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115819",
+      "text": "My grandma's laying #Poolside thanks to @User delicious New #ButtermilkCrispyTenders http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "McDonalds",
+      "text": "@User Don't forget - this Sunday is Bring Your Grandma to McDonald's Day. See you then!"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115819",
+      "text": "@User My granny will be attending @ the McD\u2019s in Heaven! Would give anything to be able to bring her myself!"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115820",
+      "text": "Way to drop the ball on customer service @User so pissed right now!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User I'm sorry we've let you down! Without providing any personal information, will you describe the issue? We'd love to help. ^TN"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115820",
+      "text": "@User 3 different people have given 3 different answers and I still don't have my order. Says delivered Saturday, was not, I was home all day"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User We'd like to take a further look into this with you! Please reach us by phone or chat here: http://url ^AG"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115820",
+      "text": "@User I frankly don't have the patience for another chat with your \"customer service\" people today."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115824",
+      "text": "@User also, beim Addams Family-Film in Prime sind Bild und Ton nicht wirklich synchron. Wie kommt's?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Hi, wir erhalten die Filme/Serien so vom jeweiligen Studio. Gebe ich aber direkt als Feedback dorthin weiter. Gru\u00df ^JS"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115824",
+      "text": "@User Okay, danke f\u00fcr die Info"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Wir haben zu danken. Sch\u00f6nen Abend noch. ^JS"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115828",
+      "text": "PLAYERUNKNOWN'S BATTLEGROUNDS is now available for preorder on Xbox One consoles - http://url http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115826",
+      "text": "@User How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it\u2019s only a week away"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User I'm sorry for the wait. You'll receive an email as soon as we have an estimated delivery date. ^FJ"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115827",
+      "text": "@User @User Yeah this is crazy we\u2019re less than a week away and still no Shipping Information on something that we Pre-ordered back in August"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Thanks for your patience. ^KM"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115834",
+      "text": "Bought an @User Echo Show and it won\u2019t recognize a single @User account in our household. WTF, guys?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Oh no, I'm sorry for the issues! For troubleshooting, please check out our Echo Help pages here: http://url ^SG"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115834",
+      "text": "@User Nothing there helped me with the Echo Show"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115834",
+      "text": "@User Is the Echo Show no longer supported?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User The Echo Show is supported, please reach us for some live troubleshooting at your convenience: http://url ^DW"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115834",
+      "text": "@User Hi ready for some help"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Were you able to reach us at the link DW provided? ^TR"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115835",
+      "text": ".@User Item has not been delivered but tracking says it was handed to me over an hour ago... 2nd time this has happened. Sort it out http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User I'm so sorry you didn't receive your parcel! We'd like a chance to look into this with you here: http://url ^SY"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115835",
+      "text": "@User That page is useless - doesn\u2019t allow me to state it hasn\u2019t been delivered; only tells me it has! How can you sort this out?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User You can also request a call back here Martin http://url ^KM"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115838",
+      "text": "@User Is it possible to prevent AMZL from delivering my packages moving forward? Stuff is either lost/stolen/broken EVERY time."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Oh no! We want to hear more about your experience with AMZL. Please provide your feedback here: http://url ^SH"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115838",
+      "text": "@User I don't want a form to fill out that logs a response no one reads. I want to prevent AMZL from touching my stuff. Possible, or no?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Is there a current order you're having difficulties with? Please let us know, we'd like to help! ^KL"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115838",
+      "text": "@User Already started the return. UPS gets it from my doorstep tomorrow. Order 111-5014070-4118645"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Provide your details here: http://url and my team will escalate the order to Amazon Logistics for feedback. ^EZ"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115839",
+      "text": "@User, it\u2019d be nice if the book I waited 4 months for wasn\u2019t damaged inside of an undented box. #twinpeaks #twin\u2026 http://url http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User I'm sorry your book arrived this way! You can find replacement/refund options here: http://url ^VS"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115839",
+      "text": "@User Already handled, just venting. It was a pretty big bummer."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Let us know if there\u2019s anything else we can do for you! We're happy to help out any way we can! ^FR"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115841",
+      "text": "CONCURSO \ud83d\udc7b\ud83c\udf83:Tarjetas regalo en @User por tu foto en la cama disfrazado y #ColchonMorfeoHalloween en los post promo:http://url http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115840",
+      "text": "@User @User Feliz #Halloween2017 http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User \u00a1Que lindoooooooooo! \ud83d\ude0d\ud83d\udc36\ud83c\udf83 ^JJ http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115843",
+      "text": "Anna Inspired in idea lab at school to be @User package being shipped to Narnia! \"Amazon can go anywhere\" according to Anna. http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User You're not lion! She even shows witch way is up! That's quite the wardrobe! ^AC"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115843",
+      "text": "@User Aww your reply made her night!"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115844",
+      "text": "I'm NEVER using Amazon again! After waiting in all day as item is \"out for delivery\", they've only gone and sent it to the WRONG COUNTRY!"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115845",
+      "text": "@User WHAT IN THE WORLD?!"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115844",
+      "text": "@User They sent the feckin' order to Germany! Some dozy driver is looking for an address in the wrong country! I'm so done with Amazon!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Oh my! I'm sorry for the troubles! Contact us by Phone or Chat: http://url &amp; we'll be glad to help! ^FR"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115844",
+      "text": "@User I just said it's been sorted! I've been refunded! I'm just not impressed with the service any more."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115846",
+      "text": "My package from @User with my Halloween costume was \u201cdelivered\u201d Friday but I don\u2019t have I so searching everywhere for a last minute idea."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115847",
+      "text": "@User @User Remember my head phones and they brought them within minutes"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115846",
+      "text": "@User @User Yeah idk the shipping company and it says \u201cmike Ziemer\u201d signed for it in the mail room at our building lol"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User That's okay! Thanks for checking! Please contact us by phone or chat and we can look into this: http://url ^BN"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115848",
+      "text": "How @User packages china http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115848",
+      "text": "@User http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User I'm sorry for the trouble this has caused you; please contact us so we may lend you a hand: http://url ^WM"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115849",
+      "text": "@User @User @User @User Order# 3632693-6196346. You couldn't deliver EVEN AFTER A MONTH. You should be ashamed of yourself."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Please report this to our support team here: http://url and we'll look into this. 2/2 ^HD"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115849",
+      "text": "@User Already contacted 3-4 times in the last month. But all I got was assurance that matter is escalated &amp; new status will be provided in 1 day!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Please share your details here:http://url and I'll get back to you. 2/2 ^HD"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115849",
+      "text": "@User Details sent. Please check."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmazonHelp",
+      "text": "@User Thanks for confirming that the details have been shared. Our team will give it a look and reach out shortly. ^AB"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115854",
+      "text": "@User why are my I\ufe0f\u2019s changing not showing up correctly on any of my social media platforms? http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115854",
+      "text": "@User http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User We're here for you. Which version of the iOS are you running? Check from Settings &gt; General &gt; About."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115854",
+      "text": "@User The newest update. I\ufe0f made sure to download it yesterday."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Lets take a closer look into this issue. Select the following link to join us in a DM and we'll go from there. http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115855",
+      "text": "What is up with this \u201c I\ufe0f \u201c"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115855",
+      "text": "Why are my I\u2019s question marks ?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115855",
+      "text": "@User I\ufe0f need answers because it\u2019s annoying \ud83d\ude43"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User We'd like to look into this with you. Which model do you have and is iOS 11.1 installed? Any steps tried so far?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115855",
+      "text": "@User I\ufe0f have an iPhone 7 Plus and yes I\ufe0f do"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User That's great it has iOS 11.1 as we can rule out being outdated. Any steps tried since this started? Do you recall when it started?"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115856",
+      "text": "Hey @User and anyone else who upgraded to ios11.1, are y\u2019all having issues with capital \u201cI\ufe0f\u201d in the Mail app? As it puts in \u201cA\u201d?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Hey, let's work together to figure out what's going on. Meet us in DM and we'll continue from there. http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115856",
+      "text": "@User Just sent you all my DM"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115857",
+      "text": "Tf is wrong with my keyboard @User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Fill us in on what is happening, then we can help out from there."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115857",
+      "text": "@User This is what is happening... http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User We'd like to investigate further with you. Send us a DM and we can troubleshoot more from there. http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115859",
+      "text": "@User @User hello are all the lines closed for tonight #help"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User What's going on? We're hapy to help if we can. http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115859",
+      "text": "@User are the call centres closed for the night?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User We've received your DM and will continue there."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115861",
+      "text": "Hello, internet. Can someone explain why this symbol keeps appearing on my phone and when I\ufe0f try to type the letter I\ufe0f? Also @User http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User You're in the right place; we'll do all we can to help. To start, let us know what iOS version is installed via DM: http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115862",
+      "text": "@User @User We\u2019re going to need you to share the answers Angela. I\ufe0f can\u2019t stand this!"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115861",
+      "text": "@User @User I will!"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115860",
+      "text": "@User @User @User I\ufe0f upgraded. I\ufe0ft didn\u2019t work."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Reach out to us via DM, and we can take a look at this with you. http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115864",
+      "text": "Thank you @User I updated my phone and now it is even slower and barely works. Thank you for ruining my phone.\ud83d\ude24"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User We'd like to help, but we'll need more details. What's happening on your device and which model is it? Do you have iOS 11.1?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115864",
+      "text": "@User I have the iPhone 6s Plus and just did the most recent update."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User To make sure, is iOS 11.1 installed on it currently? Also, any steps tried so far? DM us here: http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115865",
+      "text": "Hola @User necesito urgente la actualizaci\u00f3n de software. La bater\u00eda me dura literal medio d\u00eda \ud83d\ude4d\ud83c\udffc\ud83d\ude47\ud83c\udffc\u200d\u2640\ufe0f"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User We offer support via Twitter in English. Get help in Spanish here: http://url or join http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115865",
+      "text": "@User I need the software update urgently. The battery lasts literally half a day \ud83d\ude4d\ud83c\udffc\ud83d\ude41@User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Hi there! What type of device are we working with?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115865",
+      "text": "@User iPhone 7 Plus \ud83d\ude0a"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Thanks! Which iOS version is currently showing in Settings &gt; General &gt; About?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115865",
+      "text": "@User iOS 11.0.3"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Let's check Settings &gt; General &gt; Software Update. iOS 11.1 was released earlier today. If you see it, please backup &amp; update."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115867",
+      "text": "@User my Apple TV works fine with my phone, but when playing videos on Mac air it stutters so much &amp; sound is still on Mac not tv?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115867",
+      "text": "@User ? hello"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User We'd like to get you speaking to our experts here: http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115868",
+      "text": "MY HOME BUTTON DOESN\u2019T WORK #IOS11 @User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Let us help with your Home button. Did this issue start right after iOS 11? Which version of iOS 11 are you running?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115868",
+      "text": "@User Yes it did, 11.0.3"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User We've just released iOS 11.1. We suggest backing up &amp; updating. Then, test the issue again. Here's how: http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115870",
+      "text": "After update #ios1103 no spotify on my lock screen?@User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Thanks for reaching out to us. Are you experiencing the missing app after restating your device?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115870",
+      "text": "@User The app is still there. But no longer able to control it from the lockscreen."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User Just to confirm, this is only happening with Spotify, correct?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115870",
+      "text": "@User I can not find an option to get it there. It was just always there when playing."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AppleSupport",
+      "text": "@User DM us the specific iOS version you are running currently and we'll continue there. http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115872",
+      "text": "@User you need to correct false charges from a trip in Lexington KY on Saturday. I want my $13 back #lyingdriver #theft"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Uber_Support",
+      "text": "@User Happy to follow up! Contact us via http://url so we can connect."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115872",
+      "text": "@User Already did that was told we requested to dropped off somewhere different which is completely false."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115878",
+      "text": "Literally stranded because of @User and because there is no support phone number I have to wait from a message from @User Smh \ud83e\udd26\ud83c\udffe\u200d\u2642\ufe0f"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Uber_Support",
+      "text": "@User We're sorry to hear this was your experience. Can you send us a DM with your email address so we can connect?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115878",
+      "text": "@User Why is there no phone number ?? I'm literally stranded and now I have to wait for an automated reply this is ridiculous"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Uber_Support",
+      "text": "@User We have received your DM and will follow up with you there."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115878",
+      "text": "@User @User wouldn't do this to me \ud83d\ude14"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115881",
+      "text": "@User 3/3 on the wrong which I really don\u2019t appreciate. This needs to be investigate and I was simply queuing to pay and the guy pushed in\ud83d\ude21"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Tesco",
+      "text": "@User Hi Cade, what was my colleagues name? Can you give a description? When were you in our store? - Nick"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115881",
+      "text": "@User Tall lady 6ft, slim, was on the till about 15:10, think she had blonde hair. She served the guy after knowing he didn\u2019t queue up like others"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Tesco",
+      "text": "@User Hi Cade, thanks so much for sending that over. I have sent an email to the Store Manager to look into this for you. 1/2"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115882",
+      "text": "@User why wasn't earlier flight offered when I tried to rebook, not cool at all. Just happened to look at moniter after deplaning."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Delta",
+      "text": "@User I'm sorry. The earlier flight may not have been available at the time of your scheduled change. *TMT"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115882",
+      "text": "@User I checked daily and flight 1403 was never offered as an option as I most certainly would have made the adjust on my trip."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Delta",
+      "text": "@User My apologies. If that flight never showed up on your search, that would mean it was full. *TMT"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115885",
+      "text": "@User I'm flying JFK-MEX-MID tomorrow and you say I'm booked in, but it looks like it's just the first leg. Can you check, please?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Delta",
+      "text": "@User Hi, Richard. Can you pls DM your confirmation number so I may look into this matter for you? Thanks! *TJF http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115885",
+      "text": "@User Hi - and thanks. Think I just figured this out. Would it be you\u2019re not running the MEX-MID flight so I need to check in via AeroMexico?"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115886",
+      "text": "@User #delta moves you to #dm the moment you have a #complaint with no results. Just got some #bs #answers but no real reason why they changed our #seating!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Delta",
+      "text": "@User We sincerely apologize for your disappointment. We always strive to create a positive customer experience. *AJC"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115886",
+      "text": "@User #Again #nothing #bs #no #answers"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Delta",
+      "text": "@User Hi Caesar, can you DM your confirmation # to the link provided? I will be glad to look into this for you. *TBT http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115886",
+      "text": "@User Same again! #equipment #change #no #guaranteed #seats #apologies I\u2019ll DM you if you can give me a #real #answer and no #standard #bs #answers"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Delta",
+      "text": "@User I would be glad to look into this for you. *TBT"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115886",
+      "text": "@User OK it was not a full flight, #equipment change had nothing to do with comfort class, no #disabilities (and a handling agent telling #customer #care would take care of us) So please non of these as an excuse! I\u2019ll retwitter your reply! Thanks"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Delta",
+      "text": "@User Thanks for your patience. *HCK"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115887",
+      "text": "i\u2019m pissed my @User shuffle and repeat button just don\u2019t fucking work and i\u2019m getting frustrated"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SpotifyCares",
+      "text": "@User Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115887",
+      "text": "@User iphone 7+ and i have the most recent update for spotify"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SpotifyCares",
+      "text": "@User Thanks. Just to be sure, are you Free or Premium? Also, can you give us more info on what happens when you try using it? /CB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115887",
+      "text": "@User Premium &amp; when i\ufe0f have it on shuffle it turns off when the song is done and just plays in order and the repeat lights up but doesn\u2019t repeat"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SpotifyCares",
+      "text": "@User Hmm. Can you try restarting your device by holding the Sleep/Wake + Volume Down buttons for 10 seconds? Keep us posted /LS"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115887",
+      "text": "@User doesn\u2019t work and i even tried deleting the app"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SpotifyCares",
+      "text": "@User Could you send us a DM with your account's email address? We'll take a look backstage /CH http://url"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115891",
+      "text": "is there a way to find non-explicit songs that are explicit @User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SpotifyCares",
+      "text": "@User Hey Mikey! We're afraid there's no way to filter or search that way, but we'll pass that suggestion on to the relevant folks /GS"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115891",
+      "text": "@User ok thx"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SpotifyCares",
+      "text": "@User No worries. If you have other questions, just give us a shout \ud83d\ude09 /GS"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115892",
+      "text": "Hi @User! My flight from MAN--LHR--BWI for Nov. 3 was canceled. I was excited to try your Club 787 product. Only available flight is now to IAD which is a hassle, but rebooked anyway--my only option! Any availability in first class on BA293 for the troubles please?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "British_Airways",
+      "text": "@User caused. We're unable to offer a complimentary upgrade, however we can quote an upgrade if you would like us to? ^Jane 2/2"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115892",
+      "text": "@User Sure, how much would an upgrade cost, out of curiosity?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "British_Airways",
+      "text": "@User Please can you DM us your booking reference, email address and contact number? We can then look into this for you. Thanks. ^Jane"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115893",
+      "text": "@User will you ever address my complaint/claim? Or, do you just ignore it until the 2 yrs are up?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "British_Airways",
+      "text": "@User email address and contact telephone number. We'll look into your complaint and contact you for an update 2/2. ^Oliver"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115893",
+      "text": "@User You have all my info. Check with Sanket Thakur. Supposedly, he/she is a \"customer service\" rep. Reference number is 16934380."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115896",
+      "text": "@User runway is under maintenance at Delhi from 7 nov. flights have been cancelled. Wanted to know status of BA0257, lhr-del 7nov"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "British_Airways",
+      "text": "@User Hi Sreejit, we have no info about this as yet. Please keep an eye online as this will be updated as soon as we know. ^Helen"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115896",
+      "text": "@User http://url here's the news article in case you guys need it. If you have any updates in the future, do share. Thanks."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "British_Airways",
+      "text": "@User Thanks Sreejit, we would recommend checking on Manage My Booking for any updates. ^Jane"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115897",
+      "text": "@User I made two bookings, but only received a confirmation email for one of the flights. Little help?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "British_Airways",
+      "text": "@User Hi David, confirmation emails can take up to 24 hrs. Have you been waiting longer than this? ^Helen"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115897",
+      "text": "@User It's been 24 hours now. Could you please assist? Thanks. My email address is __email__"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115898",
+      "text": ".@User tired of getting charged for equipment that was returned months ago. Please stop it."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "comcastcares",
+      "text": "@User I definitely want to make sure your charges are correct. Please DM me your address and phone# so I can better assist. -SLM"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115898",
+      "text": "@User \u2714"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115899",
+      "text": "@User hi I got some odd text alert from you I don't have your service why would I get alerts"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "comcastcares",
+      "text": "@User address, and phone number so I can assist further with this issue. Thanks! -KW"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115899",
+      "text": "@User Sent and thank you"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115901",
+      "text": "Why does @User record programs on my DVR from channels I don't subscribe to? Blank recordings. I don't have NBA LP! #UpgradeYourSoftware! http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "comcastcares",
+      "text": "@User Hello, have you checked your scheduled menu? You may have a series recording scheduled. - Matt"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115901",
+      "text": "@User Phoenix Suns are on auto record. NBA Team Channel 752 trying to record tonight. I only want regular broadcast games recorded like TiVo does."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "comcastcares",
+      "text": "@User If you set a recording for a sports team it will try to record it on any available network. - Matt"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115901",
+      "text": "@User Thanks for your reply but that's why I said Update your Software. If @User knows not to record on an unavailable channel, it's software."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "comcastcares",
+      "text": "@User We can certainly share your feedback moving forward as we're always looking to improve the customer experience. -DSC"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115904",
+      "text": "@User have a flight at 330pm (45mins) I\u2019m almost to Lax. I\u2019m legally blind and didn\u2019t know where to let you know I need assistance."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115904",
+      "text": "@User Could you have someone on your lax team available to guide me to my gate ASAP"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmericanAir",
+      "text": "@User Our apologies for the delay in responding to you. Have you made it to LAX? Let us know if you still need assistance."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115904",
+      "text": "@User Erica on the lax team is amazing give her a raise ty"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmericanAir",
+      "text": "@User We'll be sure to pass along your kind words! #AATeam"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115906",
+      "text": "I\u2019m sorry, what? It\u2019s going to COST me $50 to transfer 4,000 AA Advantage points to my spouse? @User this is ridiculous!!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmericanAir",
+      "text": "@User This is a great option for customers who want to share miles and it's cheaper than having to purchase them."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115906",
+      "text": "@User Right, but I earned those. I also shouldn\u2019t have to pay to pass them to my own spouse. You need to change your program."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AmericanAir",
+      "text": "@User We're sorry for your frustration."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115911",
+      "text": "Be ready for your next iPhone. Join our iPhone upgrade program for free! http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115910",
+      "text": "@User I have a question."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115911",
+      "text": "@User Go for it Trevor *ErikS"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115910",
+      "text": "@User Are pre orders done for the X?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115911",
+      "text": "@User No sir! You can still preorder at http://url *JoanO"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115910",
+      "text": "@User Sweet! I\u2019m still paying on my 7plus but I have a jump. Any way to find out what to do in my situation and how much money I need to put down?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "TMobileHelp",
+      "text": "@User Hey, Trevor! Send us a DM, and we'll take a closer look! *KellenF"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115912",
+      "text": "@User @User just called in to switch from AT&amp;T. They wanted $75 to switch 3 phones! I said no way! Inconsistent messaging - shame!"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115912",
+      "text": "@User @User By 'upfront' I hope you don't mean 'upfront fees\"! DM sent!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "TMobileHelp",
+      "text": "@User @User Thanks for getting that DM sent over - I've got it and am replying now. http://url *RayButler"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115918",
+      "text": "@User @User The @User code is not working when applied at checkout. Can you please look into this? http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "TMobileHelp",
+      "text": "@User We want this to work perfectly! Do you have at least 10 photos selected? If not, add another and try. DM w/ any questions! *ChrisBradstreet"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115918",
+      "text": "@User Got it. One of them resized to 4x4. So instead of alerting me it just wouldn't take the coupon code. I resized it and it worked. Thanks."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "TMobileHelp",
+      "text": "@User You are welcome and thanks for letting us know. If you need anything else we are here for you. #HappyTMobileTuesday *KennethStone"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115917",
+      "text": "@User @User OK maybe my problem too let me try that resizing."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "TMobileHelp",
+      "text": "@User We want to help you with this great #TMobileTuesday deal! Shoot me a DM here http://url *AngieShaw"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115917",
+      "text": "@User http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "TMobileHelp",
+      "text": "@User Can I have you DM me at: http://url *RobFahl"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115920",
+      "text": "@User hi! i need some help with a booking i need to change, and made a mistake on. who can i contact?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VirginTrains",
+      "text": "@User You'd need to contact our Aftersales team on 0344 556 5650 from 8am ^CB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115920",
+      "text": "@User thanks!"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115921",
+      "text": "@User Hi- does the new app have an option to buy an open return?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VirginTrains",
+      "text": "@User Yes it does. You need to select the return journey then in the ticket flexibility menu you can select open return ^CB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115921",
+      "text": "@User Thanks, see it now. Real shame about how poor the new App is though."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115923",
+      "text": "@User For at least the third time this year, I will miss the meeting I especially took the train for in the first place. So often late. No refund because it \"doesn't qualify\". Next season = car."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VirginTrains",
+      "text": "@User Hi Andy, really sorry to hear this. Which service are you travelling on please? ^HP"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115923",
+      "text": "@User The 06:20 from Euston. Now I'm here waiting on the 19:00 from B'ham int. Also late."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VirginTrains",
+      "text": "@User Sadly the service has been delayed due to a fault on the line ^CB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115923",
+      "text": "@User Always some supposedly acceptable reason, yes I get that, but when one uses the trains every week and spends a lot of money, for it to be late regularly is just not acceptable."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VirginTrains",
+      "text": "@User I understand the frustration this causes, Andy ^CB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115923",
+      "text": "@User Oh, that's nice. What are you doing about it? What are you targets next year?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VirginTrains",
+      "text": "@User These delays are out of our control, but we do work with Network Rail to try and reduce any problems ^CB"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115929",
+      "text": "@User is down on the my account page \ud83d\ude11\ud83d\ude11"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SouthwestAir",
+      "text": "@User Hm, we haven't had any reported errors lately. Have you tried accessing your RR account via a different browser? ^MA"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115929",
+      "text": "@User consider this your 1st reported error"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SouthwestAir",
+      "text": "@User Please DM us a picture of the error you're receiving. ^MA"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115929",
+      "text": "@User Its working again"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "SouthwestAir",
+      "text": "@User Oh good! Happy to hear that, Jenessa. We hope to see you onboard soon! ^MA"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115930",
+      "text": "Change your @User password and turn on two-step verification or else you, too, may receive a paypal receipt for a van reversing camera with a random delivery address in Walthamstow."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskeBay",
+      "text": "@User Hi Simon! I\u2019m sorry to hear this! Sounds like your account may have been compromised. I strongly advise you to contact our security teams &gt; http://url if you haven\u2019t already done so, to make sure you do to ensure your account is fully secured. ^GR"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115930",
+      "text": "@User sure will do. Getting refunded by the sellers in the meantime."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskeBay",
+      "text": "@User Thanks for the update Simon! Please let us know if there\u2019s anything we can help you with! Have a great day! ^GR"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115938",
+      "text": "@User need assistance. Bought item, due to be delivered Saturday. Never received item, despite being marked as delivered. No response from seller, delivery services cannot assist with lost/missing package. Please advise."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskeBay",
+      "text": "@User Hi there. Sorry to hear the item has not arrived. Is there tracking for the item? If not, I'd advise opening an item not received claim. You can learn more about that here&gt; http://url Any other questions, let us know. ^SG"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115938",
+      "text": "@User The item has been marked as delivered, and the system would not let me contact ebay customer service directly. It was not sellers fault, it was mismanaged somewhere between shipment and delivery. Still file a claim?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115938",
+      "text": "@User Need to contact customer service directly. Please DM contact email for customer service"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskeBay",
+      "text": "@User As the seller is responsible for the courier, they can claim for lost items from the courier. You still have to open a claim through eBay to be protected. Please follow the previous steps. We cant outbound DM. You can DM us if you have any other questions. ^SG"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115938",
+      "text": "@User Ok, thank you for your help, I'll do that."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "AskeBay",
+      "text": "@User You're more than welcome. Any other questions, please dont hesitate to ask. Thanks ^SG"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115938",
+      "text": "@User I have further questions about my eBay transaction- I DM'ed to explain, thanks"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115939",
+      "text": "@User @User my wife and I hate the new interface. Enjoy the content but getting their is a horrible experience"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "hulu_support",
+      "text": "@User Oh no! Any aspect about navigation that you find difficult? For now, the following guide may help: http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115939",
+      "text": "@User Getting to the lists of episodes. It\u2019s not difficult. Just way more annoying. Plus you can\u2019t see as many choices on screen at once."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "hulu_support",
+      "text": "@User Apologies for the difficulties! That was definitely not our intention. We'll absolutely pass on your feedback to our developers."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115939",
+      "text": "@User Thanks"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115942",
+      "text": "I feel it\u2019s important to remind @User that its new interface has made watching what you want to watch nearly impossible. Zero stars."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115944",
+      "text": "@User @User It's....very challenging."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115942",
+      "text": "@User @User Yep. Challenging. Frustrating. Things you don\u2019t need when you\u2019re just trying to watch Bob\u2019s Burgers."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "hulu_support",
+      "text": "@User We're sorry to hear this, Heather! Anything in particular about the new app that you find frustrating? We're here to help."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115942",
+      "text": "@User It\u2019s not intuitive. Takes me too long to find the episode I want instead of the episode presented to me."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "hulu_support",
+      "text": "@User If browsing from Home, press the option for more details &gt; go to the show page &gt; use the Episodes tab to browse/pick an ep."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115943",
+      "text": "@User @User I think we understand HOW it works, it's just frustrating that it USED to be much more user-friendly before this update."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115942",
+      "text": "@User @User Yep. This"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115945",
+      "text": "Love @User but lost home internet&amp; just learned can\u2019t Mirror Hulu on iPad hdmi adapter. Wanted to get Hulu live. Guess I\u2019ll have to cancel all of Hulu &amp; look at @User or something like that \ud83d\ude22 why #Hulu why???"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "hulu_support",
+      "text": "@User We'd hate to see you go! HDMI mirroring isn't supported at this time, but we'll be sure to share the interest in this w/our team"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115945",
+      "text": "@User Sounds like generic #yourenotgonnafixit replh"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "hulu_support",
+      "text": "@User We can't make any promises about HDMI streaming, but rest assured that we care about your concerns and have shared the feedback."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115947",
+      "text": "@User i am a college student why can\u2019t i still use my Mom\u2019s/family account while I\u2019m away at college"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115947",
+      "text": "@User What if you do like @User and @User and have a student discount"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "hulu_support",
+      "text": "@User You'll be glad to know that if you have a Spotify student account, you can get Hulu for free! http://url \ud83c\udfb6 \ud83d\udc9a \ud83d\udcfa"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115949",
+      "text": "@User boarding the 22:45 from pad to swindon. Where in reading do I have to go for the bus?dont usually find staff to help!!!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "GWRHelp",
+      "text": "@User Hi there. Buses depart from the northern interchange at Reading. Phil."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115949",
+      "text": "@User Do u expect people to travel with a compass???"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "GWRHelp",
+      "text": "@User Head to the multi-storey car park, outside you will see a sign for rail replacement. Phil."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115950",
+      "text": "@User fuck you fix my connection"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "sprintcare",
+      "text": "@User This is really concerning to us and we would love to help. Can you let us know what issues you are having with your connection. KB"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115950",
+      "text": "@User If it was concerning I wouldn\u2019t have to be tweeting you so much over the last few years"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115712",
+      "text": "@User @User how can I get in touch with someone that matters at Spring Corporate"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "sprintcare",
+      "text": "@User Just click \u2018Message\u2019 at the top of your profile. We're always here and eager to assist."
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115712",
+      "text": "@User I've sent several private messages!!! and no one responds!"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "sprintcare",
+      "text": "@User Do you have a good contact number where you can be reached?"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115712",
+      "text": "@User I sent it twice now to apparently noone!"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115714",
+      "text": "Save big our best-selling phones, &amp; get FREE Upgrades to any phone after 12 consecutive on-time payments http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115952",
+      "text": "@User After those 12 months, if you decided to upgrade what happens to the remaining 6 months if you\u2019re on a 18 mo Flex lease like me?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "sprintcare",
+      "text": "@User Hey we would love to further educate you on our amazing Sprint Flex Lease option. Send us a DM lets chat. -CW"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115956",
+      "text": "@User having trouble with a cable box, can you help?"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Ask_Spectrum",
+      "text": "@User My apologies for any issues you're currently having. I'd be happy to help anyway we can. Please DM your service p... http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Ask_Spectrum",
+      "text": "@User I truly apologize for the frustration this matter has caused. Please DM your service phone number or account numb... http://url"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115956",
+      "text": "@User I already stated I would not go to site requested, you won\u2019t DM so just going to call, I miss the ease of solving problems with @User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "Ask_Spectrum",
+      "text": "@User If you change you're mind please let us know. ^RR"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115956",
+      "text": "@User I won\u2019t &amp; that makes me sad"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115960",
+      "text": "@User I didn't know my boy ordered half a bowl... #WheresTheRice? http://url"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User That doesn't look right. Please tell us more: http://url -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115960",
+      "text": "@User nope just laziness."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115961",
+      "text": "Getting that 3 buck burrito from @User is becoming a tradition on Halloween #thebest"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User The absolute best. What are you going to order? -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115961",
+      "text": "@User We got two burritos, chips and queso. \ud83d\udc4d\ud83c\udffc"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User Delish! Well played. -Becky"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115969",
+      "text": "Hey @User why don't you have chorizo anymore it was the best thing on the menu"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User It was my favorite, too. My apologies for any frustration. -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115969",
+      "text": "@User I'm not frustrated, just sad. But thanks for the compassion."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User Of course, my friend. -Becky"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115977",
+      "text": "Hey @User! Any word on when your 532 W. Broadway location in Vancouver will open? Can't wait any more!! #YVRfood #lunchtime"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User If all goes to plan, we should be open on Friday! -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115977",
+      "text": "@User Woohoo! I'm gonna be first in line. \ud83d\ude04"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User Yeah, buddy! Send us a pic, for sure. -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115977",
+      "text": "@User Hey! Did things go to plan? Just checking if your W. Broadway location in Vancouver is open today..."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User From what I see, we're good to go. -Tay"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115982",
+      "text": "i just walked into @User wearing my mermaid man costume to get a $3 burrito &amp; I\u2019ve never felt more alive"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User That sounds so epic. -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115982",
+      "text": "@User it was becky it was."
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115986",
+      "text": "@User Just got ghosted by Chipotle :( Went in at 3pm and was told we had to wait another hour for #BOOritos! UnBOOlievable."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User That's definitely unBOOlievable. Please tell us more so we can help: http://url -Becky"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115986",
+      "text": "@User Thanks, Becky! We were able to go back to Chipotle at 4pm and got our BOOritos."
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "ChipotleTweets",
+      "text": "@User We appreciate you coming back! -Becky"
+    }
+  ],
+  [
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115988",
+      "text": "Why am I still receiving a bill for oct when I disconnected by account on sept 20th? pls advise &amp; reverse the charges. @User"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User Does this bill say Final Bill? ^ACM"
+    },
+    {
+      "is_customer": true,
+      "speaker": "Customer",
+      "author_id": "115988",
+      "text": "@User no! it just says amount due $27.04"
+    },
+    {
+      "is_customer": false,
+      "speaker": "Agent",
+      "author_id": "VerizonSupport",
+      "text": "@User Can you please follow and DM us. ^ACM"
     }
   ]
 ]
