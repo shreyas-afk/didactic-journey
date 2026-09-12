@@ -1,0 +1,67 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+name: deberta_hierarchical_nlu_fine_tuning
+display_name: Stage 2 - DeBERTa Hierarchical Turn-Transformer Fine-Tuning
+version: 1.0.0
+type: command
+
+description: |
+  Fine-tunes the dual-level DeBERTa-v3 Hierarchical Turn-Transformer NLU engine 
+  on Bitext + Twitter multi-turn dialogues with Layer-Wise Learning Rate Decay (LLRD) 
+  and Kendall Homoscedastic Multi-Task Uncertainty Loss.
+
+inputs:
+  bitext_data:
+    type: uri_file
+    description: Bitext customer support 27k dataset CSV.
+  twitter_data:
+    type: uri_file
+    optional: true
+    description: Optional Twitter augmented multi-turn dialogues CSV.
+  pretrained_backbone:
+    type: uri_folder
+    description: Path to adapted DeBERTa checkpoint folder or Hugging Face model string.
+  epochs:
+    type: integer
+    default: 5
+    description: Number of fine-tuning epochs.
+  batch_size:
+    type: integer
+    default: 32
+    description: Training batch size.
+  base_lr:
+    type: number
+    default: 0.00002
+    description: Base learning rate for lower transformer layers.
+  head_lr:
+    type: number
+    default: 0.00006
+    description: Learning rate for turn transformer and perception heads.
+  llrd_decay:
+    type: number
+    default: 0.9
+    description: Layer-wise learning rate decay multiplier.
+  patience:
+    type: integer
+    default: 2
+    description: Early stopping patience epochs.
+
+outputs:
+  trained_model_dir:
+    type: uri_folder
+    description: Output directory containing trained weights, tokenizer, and config JSON.
+
+code: ../
+environment: azureml:deberta-nlu-gpu-env:1
+
+command: >-
+  python -m src.train_nlu
+  --bitext_data ${{inputs.bitext_data}}
+  $[[--twitter_data ${{inputs.twitter_data}}]]
+  --pretrained_backbone ${{inputs.pretrained_backbone}}
+  --epochs ${{inputs.epochs}}
+  --batch_size ${{inputs.batch_size}}
+  --base_lr ${{inputs.base_lr}}
+  --head_lr ${{inputs.head_lr}}
+  --llrd_decay ${{inputs.llrd_decay}}
+  --patience ${{inputs.patience}}
+  --output_dir ${{outputs.trained_model_dir}}

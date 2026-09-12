@@ -1,0 +1,27 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+name: deberta_hierarchical_nlu_evaluation
+display_name: Stage 3 - DeBERTa Hierarchical NLU Evaluation & Telemetry Export
+version: 1.0.0
+type: command
+
+description: |
+  Runs zero-shot benchmark evaluations across diverse simulated customer escalation 
+  trajectories and exports telemetry payloads.
+
+inputs:
+  trained_model_dir:
+    type: uri_folder
+    description: Directory containing trained model checkpoint and tokenizer.
+
+outputs:
+  eval_output_dir:
+    type: uri_folder
+    description: Directory containing evaluation report JSON and performance metrics.
+
+code: ../
+environment: azureml:deberta-nlu-gpu-env:1
+
+command: >-
+  python -m src.evaluate
+  --model_dir ${{inputs.trained_model_dir}}
+  --output_report ${{outputs.eval_output_dir}}/eval_report.json

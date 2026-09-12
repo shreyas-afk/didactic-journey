@@ -1,0 +1,57 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandComponent.schema.json
+name: deberta_customer_support_mlm_training
+display_name: Stage 1 - DeBERTa MLM Domain Adaptation
+version: 1.0.0
+type: command
+
+description: |
+  Domain-adapts DeBERTa-v3 on large-scale customer service Twitter utterances 
+  using masked language modeling (MLM) with dynamic 15% masking.
+
+inputs:
+  train_data:
+    type: uri_file
+    description: Path to raw or cleaned customer support tweets CSV.
+  model_name:
+    type: string
+    default: "microsoft/deberta-v3-base"
+    description: Base Hugging Face model or existing checkpoint identifier.
+  epochs:
+    type: integer
+    default: 3
+    description: Total pre-training epochs.
+  batch_size:
+    type: integer
+    default: 128
+    description: Batch size for GPU training.
+  learning_rate:
+    type: number
+    default: 0.00005
+    description: Learning rate for AdamW optimizer.
+  max_len:
+    type: integer
+    default: 48
+    description: Max sequence token length.
+  sample_size:
+    type: integer
+    default: 100000
+    description: Optional sample size limit.
+
+outputs:
+  adapted_backbone_dir:
+    type: uri_folder
+    description: Directory where adapted DeBERTa weights and tokenizer are exported.
+
+code: ../
+environment: azureml:deberta-nlu-gpu-env:1
+
+command: >-
+  python -m src.train_mlm
+  --train_data ${{inputs.train_data}}
+  --model_name ${{inputs.model_name}}
+  --epochs ${{inputs.epochs}}
+  --batch_size ${{inputs.batch_size}}
+  --learning_rate ${{inputs.learning_rate}}
+  --max_len ${{inputs.max_len}}
+  --sample_size ${{inputs.sample_size}}
+  --output_dir ${{outputs.adapted_backbone_dir}}

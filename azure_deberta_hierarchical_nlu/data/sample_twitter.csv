@@ -1,0 +1,14 @@
+instruction,category,intent,flags,trajectory,escalation,customer_effort
+@sprintcare is the worst customer service,FEEDBACK,leave_feedback,I,STABLE_INQUIRY,0.215,0.465
+@115714 y’all lie about your great connection. 5 bars LTE still won’t load something.,TECH_SUPPORT,network_outage,M,ESCALATING_FRICTION,0.676,0.683
+actually that's a broken link you sent me and incorrect information,TECH_SUPPORT,report_bug,I,DE_ESCALATING_RESOLVED,0.11,0.449
+somebody from @VerizonSupport please help me having bad luck with your customer service,TECH_SUPPORT,contact_agent,P,DE_ESCALATING_RESOLVED,0.057,0.2
+@115722 tried to pay a bill for 60 days. No service rude CS and several transfers!,BILLING,dispute_charge,W,CRITICAL_CHURN_RISK,0.764,0.931
+@115722 is the worst ISP I have ever had connection cuts out every hour,TECH_SUPPORT,network_outage,M,ESCALATING_FRICTION,0.484,0.77
+So frustrated ordered dinner using app order was wrong and charged credit card twice,BILLING,dispute_charge,P,DE_ESCALATING_RESOLVED,0.04,0.166
+having trouble making purchases on store for points can you help?,PAYMENT,check_payment_status,P,DE_ESCALATING_RESOLVED,0.092,0.168
+whats going on with your app its totally stuck here for 1 hour after update,APP_SUPPORT,report_bug,I,STABLE_INQUIRY,0.153,0.429
+So apparently the new update broke my export feature. Fix this right now,APP_SUPPORT,report_bug,W,CRITICAL_CHURN_RISK,0.755,0.728
+I ordered 3 days ago where is my shipment for package ORD-99212,DELIVERY,track_package,Q,STABLE_INQUIRY,0.15,0.3
+Please refund the double charge on my account immediately,REFUND,get_refund,M,ESCALATING_FRICTION,0.55,0.6
+Cancel my subscription right now I am switching to another provider,SUBSCRIPTION,pause_subscription,W,CRITICAL_CHURN_RISK,0.85,0.88

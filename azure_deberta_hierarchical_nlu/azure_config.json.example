@@ -1,0 +1,6 @@
+{
+  "subscription_id": "<YOUR_AZURE_SUBSCRIPTION_GUID>",
+  "resource_group": "<YOUR_RESOURCE_GROUP_NAME>",
+  "workspace_name": "<YOUR_AZURE_ML_WORKSPACE_NAME>",
+  "compute_name": "<YOUR_GPU_COMPUTE_CLUSTER_NAME>"
+}
