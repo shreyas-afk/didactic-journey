@@ -167,9 +167,38 @@ python -m src.train_nlu \
 
 ---
 
+## 🔮 Running Inference with Trained Model
+
+A dedicated runner [`run_inference.py`](file:///c:/Users/Shreyas%20HV/Documents/python/genai-full/azure_deberta_hierarchical_nlu/run_inference.py) is provided:
+
+### 1. Interactive Live Chat Simulator
+Simulate customer-agent multi-turn threads in real-time in your terminal:
+```bash
+python run_inference.py --interactive
+```
+
+### 2. Single Multi-Turn JSON Evaluation
+```bash
+python run_inference.py --turns '[
+  {"speaker": "Customer", "text": "I ordered 2 days ago, where is order ORD-88192?"},
+  {"speaker": "Agent",    "text": "Please provide your email."},
+  {"speaker": "Customer", "text": "I already gave it twice, track my order now!"}
+]'
+```
+
+### 3. Batch File Inference
+```bash
+python run_inference.py \
+  --input_file data/sample_twitter.csv \
+  --output_file outputs/batch_predictions.json
+```
+```
+
+---
+
 ## 📦 Real-Time Structured Telemetry Payload
 
-The inference engine (`src/inference.py`) outputs structured JSON for downstream LLM Agents (e.g. Qwen / Claude / GPT):
+The inference engine (`src/inference.py` / `run_inference.py`) outputs structured JSON for downstream LLM Agents (e.g. Qwen / Claude / GPT):
 
 ```json
 {
@@ -198,3 +227,4 @@ The inference engine (`src/inference.py`) outputs structured JSON for downstream
   }
 }
 ```
+
